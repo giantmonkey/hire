@@ -6,7 +6,7 @@ The position is updated in regular intervals and the visitor is allowed access o
 
 API endpoint: https://waitingroom.giantmonkey.de
 
-You may use a JS framwork (Vue / React / Svelte) if you like.
+You may use a JS framwork (Vue / React / Svelte / Angular) if you like but don't have to.
 
 ## Steps:
 Enter waiting room and get a JWT token: curl -XPOST https://waitingroom.giantmonkey.de/test-shop/enter
