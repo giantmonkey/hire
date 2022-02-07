@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 # The waiting room
 
 ## Your task:
