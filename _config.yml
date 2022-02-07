@@ -25,6 +25,7 @@ baseurl: "/hire"  # the subpath of your site, e.g. /blog
 url: ""           # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: GiantMonkeyGmbh
 github_username:  giantmonkey
+author: (c) 2022 Giant Monkey GmbH
 
 # Build settings
 markdown: kramdown
