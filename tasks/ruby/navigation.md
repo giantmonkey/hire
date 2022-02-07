@@ -1,8 +1,7 @@
 ---
+title: Messy navigation helpers
 layout: home
 ---
-
-# Messy navigation helpers
 
 The two methods `nav_primary` and `nav_secondary` inside the `HeaderNavigationHelper` are pretty convoluted:
 

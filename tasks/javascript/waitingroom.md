@@ -1,8 +1,7 @@
 ---
+title: The waiting room
 layout: home
 ---
-
-# The waiting room
 
 ## Your task:
 Implement a Javascript app with a simple waiting room feature that only allows access to the underlying application until a maximum number of visitors is reached and shows a position in a waiting queue otherwise. 
