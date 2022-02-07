@@ -1,6 +1,6 @@
-## The waiting room
+# The waiting room
 
-### Your task:
+## Your task:
 Implement a Javascript app with a simple waiting room feature that only allows access to the underlying application until a maximum number of visitors is reached and shows a position in a waiting queue otherwise. 
 The position is updated in regular intervals and the visitor is allowed access once there are enough free places.
 
