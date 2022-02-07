@@ -8,6 +8,7 @@ Please refactor them to make them more consise and clear. You probably want to w
 ## Recommended time
 1 - 3 hours
 
+## The code
 `app/helpers/header_navigation_helper.rb`:
 
 ```ruby
