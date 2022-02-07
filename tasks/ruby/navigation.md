@@ -1,20 +1,6 @@
 # Messy navigation helpers
 
-The two methods `nav_primary` and `nav_secondary` inside the `HeaderNavigationHelper` are pretty convoluted.
-
-## Your task:
-Please refactor them to make them more consise and clear. You probably want to write Minitest or Rspec specs before your refactoring, using mocks and stubs for non-existing methods like `current_user`.
-
-## What we are looking for:
-* Process of working documented by concise commits
-* Clean, readable code
-* Tests!
-
-## Recommended time
-1 - 3 hours
-
-## The code
-`app/helpers/header_navigation_helper.rb`:
+The two methods `nav_primary` and `nav_secondary` inside the `HeaderNavigationHelper` are pretty convoluted:
 
 ```ruby
 module HeaderNavigationHelper
@@ -67,3 +53,15 @@ module HeaderNavigationHelper
   
 end
 ```
+
+
+## Your task:
+Please refactor them to make them more consise and clear. You probably want to write Minitest or Rspec specs before your refactoring, using mocks and stubs for non-existing methods like `current_user`.
+
+## What we are looking for:
+* Process of working documented by concise commits
+* Clean, readable code
+* Tests!
+
+## Recommended time
+1 - 3 hours
