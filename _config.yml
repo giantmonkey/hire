@@ -20,9 +20,9 @@
 
 title: 
 email: jobs@giantmonkey.de
-description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+description: >-   # this means to ignore newlines until "baseurl:"
+baseurl: "/hire"  # the subpath of your site, e.g. /blog
+url: ""           # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: GiantMonkeyGmbh
 github_username:  giantmonkey
 
