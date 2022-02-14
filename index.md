@@ -1,2 +1,4 @@
-# Test tasks
+---
+title: Test tasks
+---
 
