@@ -6,7 +6,7 @@ layout: home
 ## Your task:
 Implement a ruby class `Semver` that can be used to compare semantic versions. 
 
-Your class should support the operators `<`, `>` and `==`. It should also implement a `#match?` method that matches against Gemfile version strings like `~> 10.1`.
+Your class should support the operators `<`, `>` and `==`. It should also implement a `#match?` method that matches against Gemfile version strings like `"~> 10.1"`.
 
 ### Examples
 ```
