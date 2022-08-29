@@ -26,4 +26,4 @@ Semver.new('1.10.1').match?('> 1.10')     # => true
 * Tests!
 
 ## Recommended time
-1 - 3 hours
+2 - 4 hours
