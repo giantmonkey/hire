@@ -4,7 +4,7 @@ layout: home
 ---
 
 ## Your task:
-Implement a SvelteKit app that sums up money values. 
+Implement a SvelteKit app that allows for the input of a list of money values which it sums up in real-time. 
 
 ![App UI](https://user-images.githubusercontent.com/71108/196458420-789d1bb0-12b1-46ab-8bd0-ed2e7123e62c.png)
 
