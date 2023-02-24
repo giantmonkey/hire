@@ -20,6 +20,8 @@ Semver.new('1.10.1').match?('~> 1.10')    # => true
 Semver.new('1.10.1').match?('> 1.10')     # => true
 ```
 
+N.B.: This is an incomplete set of examples, [here's more on the workings of ruby's "pessimistic operator"](https://thoughtbot.com/blog/rubys-pessimistic-operator).
+
 ## What we are looking for:
 * Process of working documented by concise commits
 * Clean, readable code
